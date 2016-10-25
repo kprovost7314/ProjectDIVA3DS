@@ -6,10 +6,6 @@ int main(int argc, char **argv)
 {
 	gfxInitDefault();
 
-	consoleInit(GFX_TOP, NULL);
-	
-	printf("\x1b[15;19HHello World!");
-
 	while (aptMainLoop())
 	{
 		hidScanInput();
