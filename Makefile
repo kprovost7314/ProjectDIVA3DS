@@ -27,7 +27,7 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-TARGET		:=	$(notdir $(CURDIR))
+TARGET		:=	diva3ds
 BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data  # data/sound data/textures data/models
@@ -54,7 +54,7 @@ CXXFLAGS	:= $(CFLAGS) -fno-rtti -fno-exceptions -std=gnu++11
 ASFLAGS	:=	-g $(ARCH)
 LDFLAGS	=	-specs=3dsx.specs -g $(ARCH) -Wl,-Map,$(notdir $*.map)
 
-LIBS	:= -lcitro3d -lctru -lm
+LIBS	:= -lcitro3d -lctru -lm # -lsf2d -lsfil
 
 #---------------------------------------------------------------------------------
 # list of directories containing libraries, this must be the top level containing
