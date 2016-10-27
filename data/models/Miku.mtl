@@ -1,0 +1,218 @@
+# Blender MTL File: 'None'
+# Material Count: 18
+
+newmtl 00:Face
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 01:Eyebrow
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 02:Eyes
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 03:L_hand
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 04:R_hand
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 05:Body_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 06:Body_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 07:Body_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00_32.png
+map_d  HatsuneMiku\\tex\\mk00_00_00_32.png
+
+newmtl 08:Cloth
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 09:Sleeves
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 10:Boots
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 11:Skrt_Acc
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 12:Necktie
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 13:Hair_clp
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_02.png
+map_d  HatsuneMiku\\tex\\mk00_00_02.png
+
+newmtl 14:HS
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_02.png
+map_d  HatsuneMiku\\tex\\mk00_00_02.png
+
+newmtl 15:Hair
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_02.png
+map_d  HatsuneMiku\\tex\\mk00_00_02.png
+
+newmtl 16:Negi
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+map_d  HatsuneMiku\\tex\\Z_mk_huku_NEW.png
+
+newmtl 17:Teeth
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  HatsuneMiku\\tex\\mk00_00_00.png
+map_d  HatsuneMiku\\tex\\mk00_00_00.png
