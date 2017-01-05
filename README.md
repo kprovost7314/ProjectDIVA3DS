@@ -10,3 +10,6 @@ Citro3D
 SF2DLIB
 
 SFILLIB
+
+# Current Status
+Working on GUI
