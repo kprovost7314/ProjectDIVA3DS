@@ -1,3 +1,8 @@
+#ifndef main_H_
+#define main_H_
+
+#include <stdio.h>
+#include <3ds.h>
 #include <citro3d.h>
 
 C3D_Init(C3D_DEFAULT_CMDBUF_SIZE);
@@ -11,3 +16,5 @@ C3D_Init(C3D_DEFAULT_CMDBUF_SIZE);
 		GX_TRANSFER_SCALING(GX_TRANSFER_SCALE_XY);
 
 	C3D_RenderTargetSetOutput(target, GFX_TOP, GFX_LEFT, transferFlags);
+
+#endif // main_H_
