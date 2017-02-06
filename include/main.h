@@ -8,6 +8,8 @@ FILE *fp;
 
 void readFile();
 
+void startMenu();
+
 //#include <citro3d.h>
 
 /*
