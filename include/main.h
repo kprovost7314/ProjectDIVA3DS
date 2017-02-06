@@ -3,6 +3,11 @@
 
 #include <stdio.h>
 #include <3ds.h>
+
+FILE *fp;
+
+void readFile();
+
 //#include <citro3d.h>
 
 /*
