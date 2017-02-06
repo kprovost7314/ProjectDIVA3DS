@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 		printf("Press START to exit homebrew\n");
 
 		if (kDown & KEY_START) break;
-		if (kDown & KEY_A) break;
+		if (kDown & KEY_A) startMenu();
 
 		gfxFlushBuffers();
 		gfxSwapBuffers();
