@@ -16,4 +16,4 @@ SFILLIB
 # Current Status
 Working on GUI (console-only for now)
 
-Working on beatmap
+Working on beatmap (parser too)
