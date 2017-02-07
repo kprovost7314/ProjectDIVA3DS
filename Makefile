@@ -37,6 +37,7 @@ INCLUDES	:=	include
 APP_TITLE	:=	Project DIVA 3DS
 APP_DESCRIPTION		:=	Project DIVA fan port
 APP_AUTHOR	:=	kprovost7314
+NO_SMDH		:=	No
 
 #---------------------------------------------------------------------------------
 # options for code generation
