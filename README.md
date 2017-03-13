@@ -5,8 +5,6 @@ A 3DS fan port of Project DIVA.
 
 CTRULIB
 
-# Will be required for compiliation
-
 Citro3D
 
 SDL-3DS 1.2
