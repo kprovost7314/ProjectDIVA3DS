@@ -9,9 +9,7 @@ CTRULIB
 
 Citro3D
 
-SF2DLIB
-
-SFILLIB
+SDL-3DS 1.2
 
 # Current Status
 Working on GUI (console-only for now)
